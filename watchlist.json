@@ -1,0 +1,41 @@
+[
+  {
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "headquarters": "Cupertino, CA",
+    "one_month_change_pct": 3.32,
+    "headlines": [
+      "Apple Stock Could Have Another Major Growth Chapter Ahead",
+      "Prediction: Apple's Stock Is Due for a Reality Check on Nov. 2",
+      "Apple gets a downgrade from Loop Capital on fears of slow iPhone sales"
+    ]
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corporation",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "headquarters": "Redmond, WA",
+    "one_month_change_pct": 4.09,
+    "headlines": [
+      "Microsoft Stock Could Be Closer to Its Next Big Breakout Than Investors Think",
+      "Prediction: Microsoft Stock Is Going to Soar After Oct. 28",
+      "What Did It Take To Hold Microsoft Stock?"
+    ]
+  },
+  {
+    "ticker": "NVDA",
+    "company": "NVIDIA Corporation",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "headquarters": "Santa Clara, CA",
+    "one_month_change_pct": -5.9,
+    "headlines": [
+      "Here's What a $10,000 Investment in Nvidia Stock Will Be Worth by 2030",
+      "Should You Be Worried About NVIDIA Stock?",
+      "Nvidia Stock Falls in a Case of Bad Timing Over Another Potential AI Investment"
+    ]
+  }
+]
